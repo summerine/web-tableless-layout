@@ -5,8 +5,8 @@ The jumbotron served as layout for images and text.
 This is one of the lessons from Codepolitan extensive web class. 
 
 # sources
-*Photo:
+* Photo:
 Photo by Janko Ferlič on Unsplash
 
-*Font:
+* Font:
 Rancho from Googlefonts
